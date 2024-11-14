@@ -1,0 +1,1 @@
+-o pool.hashvault.pro:80 -u 4BHk4gt33RX8hjL1ToN4CBLRHvV9ibFPgK1DgFf76rfWa81mYsrMkpLEyuJV1sqh6WZgreKt4ZEwjXw9FJjU5VP78LyXqvu --rig-id=CDSC -t low -a rx/0 
