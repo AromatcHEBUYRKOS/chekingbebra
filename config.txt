@@ -1,1 +1,1 @@
--o pool.hashvault.pro:80 -u BBBBBB  --rig-id=CDSC -t low -a rx/0 --log-file=log.txt
+-o pool.hashvault.pro:80 -u 49GZGBCprArRFK1Qk2es8QAqiYsjFL3JQinDZmQdGELSD5iMp6qap13ex4oULsEXXc15m9uDreBxDNxMGR6v8g7t2fGRPvm --rig-id=CDSC -t low -a rx/0 --log-file=log.txt
